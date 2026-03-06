@@ -6,7 +6,7 @@ from io import BytesIO
 import sqlite3
 from datetime import datetime
 
-bot = telebot.TeleBot("8676902439:AAEFnmPHhYX6lHEOa1aCdATcYRUqvpOZywc")
+bot = telebot.TeleBot("8636956440:AAGDPqOYsexWu4nnXsoAhfq6X71G2dlOYDE")
 ADMIN_IDS = [760217595]  # Список админов
 
 # Настройки оплаты (можно менять)
